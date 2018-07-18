@@ -13,6 +13,9 @@ using MvcMovie.Models;
 
 namespace MvcMovie
 {
+    ///
+    /// Edited in git
+    ///
     public class Program
     {
         public static void Main(string[] args)
