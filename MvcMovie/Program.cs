@@ -15,6 +15,7 @@ namespace MvcMovie
 {
     ///
     /// Edited in git  - for the second time
+    ///     line added in vs
     ///
     public class Program
     {
