@@ -64,6 +64,12 @@ namespace MvcMovie.Controllers
             return View(movieGenreVM);
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="searchString"></param>
+        /// <param name="notUsed"></param>
+        /// <returns></returns>
         [HttpPost]
         public string Index(string searchString, bool notUsed)
         {
