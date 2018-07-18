@@ -14,7 +14,7 @@ using MvcMovie.Models;
 namespace MvcMovie
 {
     ///
-    /// Edited in git
+    /// Edited in git  - for the second time
     ///
     public class Program
     {
